@@ -1,3 +1,6 @@
 emojoi
 smile
 color
+
+darkmode 
+videocall
